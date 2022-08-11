@@ -12,7 +12,7 @@ O projeto foi desenvolvido durante a Maratona Explorer 3.0 2022 da Rocketseat co
 
 ## 💻 Demonstração
 
-Você pode acessar a <a href="" target="_blank">versão final do projeto</a>.
+Você pode acessar a <a href="https://helpful-melomakarona-a0a0cb.netlify.app/" target="_blank">versão final do projeto</a>.
 
 ## ✏️ Autor
 
